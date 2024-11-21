@@ -10,7 +10,7 @@ def read_requirements():
 
 setup(
     name="synthetic_energy",
-    version="0.0.1",
+    version="0.0.2",
     packages=find_packages(),
     install_requires=read_requirements(),
     entry_points={
@@ -18,14 +18,14 @@ setup(
             # 'your_command=your_module.your_module:main',
         ],
     },
-    author="Rui Melo",
-    author_email="rufimelo99@gmail.com",
-    description="PhD work/exploration @ FEUP, PORTO",
+    author="Rui Melo & André Catarino",
+    author_email="rufimelo99@gmail.com; andre.almeida.catarino@gmail.com",
+    description="PhD work for ICSP @ FEUP, PORTO",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GPL License v3",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.10",
