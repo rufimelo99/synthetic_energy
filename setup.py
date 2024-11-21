@@ -25,7 +25,7 @@ setup(
     long_description_content_type="text/markdown",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GPL License v3",
+        "License :: OSI Approved :: GPL License",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.10",
