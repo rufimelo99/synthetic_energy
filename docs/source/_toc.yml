@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 parts:
-- caption: Basic synthesisers
+- caption: Core Concepts
   chapters:
-  - file: example
+  - file: quality_metrics
