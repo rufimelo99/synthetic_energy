@@ -21,3 +21,4 @@ rdt>=1.12.2
 spacy>=3.7.5
 visions
 faker
+gretel_synthetics
