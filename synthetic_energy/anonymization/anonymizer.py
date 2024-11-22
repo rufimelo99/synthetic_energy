@@ -17,25 +17,13 @@ class Anonymizer:
     based on predefined anonymization types. The available anonymization techniques include
     generating fake names, emails, phone numbers, credit card details, and more.
 
-    Attributes
+    Parameters
     ----------
-    anonymization_techniques : Dict[AnonymizationType, Callable]
-        A dictionary mapping anonymization types to their respective anonymization methods.
-    classifier : classifier.ColumnClassifier
-        A classifier for determining column types for anonymization.
+        anonymization_techniques : Dict[AnonymizationType, Callable]
+            A dictionary mapping anonymization types to their respective anonymization methods.
+        classifier : classifier.ColumnClassifier
+            A classifier for determining column types for anonymization.
 
-    Methods
-    -------
-    anonymise_person_name(dataframe: pd.DataFrame, column_name: str) -> pd.DataFrame
-        Anonymizes a column containing person names by replacing them with fake names.
-    anonymise_email(dataframe: pd.DataFrame, column_name: str) -> pd.DataFrame
-        Anonymizes a column containing email addresses by replacing them with fake email addresses.
-    anonymise_phone_number(dataframe: pd.DataFrame, column_name: str) -> pd.DataFrame
-        Anonymizes a column containing phone numbers by replacing them with fake phone numbers.
-    anonymise_address(dataframe: pd.DataFrame, column_name: str) -> pd.DataFrame
-        Anonymizes a column containing addresses by replacing them with fake addresses.
-    anonymise_credit_card_number(dataframe: pd.DataFrame, column_name: str) -> pd.DataFrame
-        Anonymizes a column containing credit card numbers by replacing them with fake credit card numbers.
     """
 
     def __init__(self):
