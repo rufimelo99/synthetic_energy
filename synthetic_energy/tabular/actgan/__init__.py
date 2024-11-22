@@ -4,7 +4,6 @@ from synthetic_energy.tabular.actgan.actgan import (
     Generator,
     Residual,
 )
-from synthetic_energy.tabular.actgan.actgan_wrapper import ACTGAN, _ACTGANModel
 from synthetic_energy.tabular.actgan.base import BaseSynthesizer
 from synthetic_energy.tabular.actgan.column_encodings import (
     BinaryColumnEncoding,
