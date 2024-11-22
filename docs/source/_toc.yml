@@ -7,3 +7,9 @@ parts:
 - caption: Core Concepts
   chapters:
   - file: quality_metrics
+  - file: base
+- caption: Anonymization
+  chapters:
+  - file: anonymization
+  - file: time_series
+  - file: tabular
