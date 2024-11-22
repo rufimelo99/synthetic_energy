@@ -1,0 +1,701 @@
+has_@,has_any_letters,has_any_numbers,has_special_characters,has_spaces,has_punctuation,is_capitalized,has_http_https_www,has_com_org_net,has_person_name,has_city_name,has_organization,label,data
+0,1,0,0,1,0,1,0,0,1,0,0,name,Annette Myers
+0,1,0,0,1,0,1,0,0,1,0,0,name,Lindsey Johnson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Tristan Parker
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michael Hernandez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Lisa Smith
+0,1,0,0,1,0,1,0,0,1,0,0,name,Kayla Baldwin
+0,1,0,0,1,0,1,0,0,1,0,0,name,Cassandra Garcia
+0,1,0,0,1,0,1,0,0,1,0,0,name,Emily Cook
+0,1,0,0,1,0,1,0,0,0,0,0,name,Rebekah Jimenez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Brian Jones
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michele Jenkins
+0,1,0,0,1,0,1,0,0,1,0,0,name,Keith Humphrey
+0,1,0,0,1,0,1,0,0,0,0,0,name,Amber Copeland
+0,1,0,0,1,0,1,0,0,1,0,0,name,Richard Burns
+0,1,0,0,1,0,1,0,0,1,0,0,name,Mr. Zachary Bryant
+0,1,0,0,1,0,1,0,0,1,0,0,name,Danielle Chang
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jason Lee
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jennifer Jones
+0,1,0,0,1,0,1,0,0,1,0,0,name,Douglas Turner
+0,1,0,0,1,0,1,0,0,0,1,0,name,Amanda James
+0,1,0,0,1,0,1,0,0,0,0,1,name,Tiffany Parsons
+0,1,0,0,1,0,1,0,0,1,0,0,name,Eric Phillips
+0,1,0,0,1,0,1,0,0,1,0,0,name,Alexandra Gutierrez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Kathy Reynolds
+0,1,0,0,1,0,1,0,0,0,0,0,name,Joel French
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jennifer Sanchez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Kevin Woods
+0,1,0,0,1,0,1,0,0,1,0,0,name,Gabriel Brown
+0,1,0,0,1,0,1,0,0,1,0,0,name,Rachel Frye
+0,1,0,0,1,0,1,0,0,1,0,0,name,Scott Romero
+0,1,0,0,1,0,1,0,0,1,0,0,name,Shawn Boyle
+0,1,0,0,1,0,1,0,0,1,0,0,name,Denise Smith
+0,1,0,0,1,0,1,0,0,1,0,0,name,Sarah Perkins
+0,1,0,0,1,0,1,0,0,1,0,0,name,Elizabeth Walton
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michael Davis
+0,1,0,0,1,0,1,0,0,1,0,0,name,Janet Dunn
+0,1,0,0,1,0,1,0,0,1,0,0,name,Carrie Krueger
+0,1,0,0,1,0,1,0,0,1,0,0,name,Christopher Shaw
+0,1,0,0,1,0,1,0,0,1,0,0,name,Maria Romero
+0,1,0,0,1,0,1,0,0,1,0,0,name,Seth Hernandez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Timothy Taylor
+0,1,0,0,1,0,1,0,0,1,0,0,name,Ashley Eaton
+0,1,0,0,1,0,1,0,0,1,0,0,name,Daniel Nolan
+0,1,0,0,1,0,1,0,0,0,0,0,name,Teresa Ware
+0,1,0,0,1,0,1,0,0,1,0,0,name,Laura Cummings
+0,1,0,0,1,0,1,0,0,1,1,0,name,Mrs. Hannah Lewis MD
+0,1,0,0,1,0,1,0,0,1,0,0,name,Mrs. Holly Frank
+0,1,0,0,1,0,1,0,0,1,0,0,name,Brianna Martinez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Andrew Gomez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Anne Thompson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Brent James
+0,1,0,0,1,0,1,0,0,1,0,0,name,Karen Shannon
+0,1,0,0,1,0,1,0,0,1,0,0,name,Tanya Smith
+0,1,0,0,1,0,1,0,0,0,0,0,name,Crystal Galvan
+0,1,0,0,1,0,1,0,0,1,0,0,name,Monique Henderson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Raymond Robinson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Tiffany Martin
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jerry Johnson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Gerald Caldwell
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michael Webb
+0,1,0,0,1,0,1,0,0,1,0,0,name,Andrew Porter
+0,1,0,0,1,0,1,0,0,1,0,0,name,Dawn Norman
+0,1,0,0,1,0,1,0,0,1,0,0,name,Robert Mitchell
+0,1,0,0,1,0,1,0,0,1,0,0,name,Lacey Rogers
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michelle Wiley
+0,1,0,0,1,0,1,0,0,1,0,0,name,Matthew Fox
+0,1,0,0,1,0,1,0,0,1,0,0,name,Audrey Anderson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Mason Brennan
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jane Fuller
+0,1,0,0,1,0,1,0,0,1,0,0,name,Joseph Ward
+0,1,0,0,1,0,1,0,0,1,0,0,name,Michael Garner
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jordan Johnson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Stacey Johnson
+0,1,0,0,1,0,1,0,0,1,0,0,name,Kathryn Day
+0,1,0,0,1,0,1,0,0,1,0,0,name,Sarah Macdonald
+0,1,0,0,1,0,1,0,0,1,0,0,name,Anthony Ruiz
+0,1,0,0,1,0,1,0,0,0,0,0,name,Heather Marquez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Gordon Alvarez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Charles Gilmore
+0,1,0,0,1,0,1,0,0,1,0,0,name,Felicia Costa
+0,1,0,0,1,0,1,0,0,1,0,0,name,David Adams
+0,1,0,0,1,0,1,0,0,1,0,0,name,Denise Newman
+0,1,0,0,1,0,1,0,0,1,0,0,name,Christina Lopez
+0,1,0,0,1,0,1,0,0,1,0,0,name,Karen Phillips
+0,1,0,0,1,0,1,0,0,1,0,0,name,Patricia Allen
+0,1,0,0,1,0,1,0,0,1,0,0,name,Dr. Angela Kelley
+0,1,0,0,1,0,1,0,0,1,0,0,name,Kathleen Kidd
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jeremy Hoffman
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jon Lopez
+0,1,0,0,1,0,1,0,0,1,0,0,name,James Curtis
+0,1,0,0,1,0,1,0,0,1,0,0,name,Tony Moss
+0,1,0,0,1,0,1,0,0,0,0,1,name,Crystal Morris
+0,1,0,0,1,0,1,0,0,1,1,0,name,Billy Wu MD
+0,1,0,0,1,0,1,0,0,1,0,0,name,Alexander Reyes
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jamie Ellison
+0,1,0,0,1,0,1,0,0,1,0,0,name,Madison Mueller
+0,1,0,0,1,0,1,0,0,1,0,0,name,Jeanette Stark
+0,1,0,0,1,0,1,0,0,1,0,0,name,Andrew Reynolds
+0,1,0,0,1,0,1,0,0,1,0,0,name,Gina Schroeder
+0,1,0,0,1,0,1,0,0,1,0,0,name,Sara Castillo
+1,1,1,0,0,0,0,0,1,0,0,0,email,samantha42@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,alexis34@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,iroberts@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,carrolltroy@example.net
+1,1,1,0,0,0,0,0,1,0,0,1,email,jerry46@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,kelleyjennifer@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,tina81@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,mcgrathscott@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,frankpierce@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,chrisgilbert@example.org
+1,1,0,0,0,0,0,0,1,0,0,1,email,tjordan@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,kimrose@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,matthewmoody@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,hendersonmichael@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,derekcross@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,rwilson@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,clarkrebecca@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,evansjeffrey@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,djohnson@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,cory16@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,carias@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,crystal92@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,clarkheather@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,qparker@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,kruegerkari@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,hriley@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,nicholas17@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,crystalhogan@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,tammyfranco@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,watsonwhitney@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,nriggs@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,sgonzalez@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,catherinemartinez@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,buckbrenda@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,rogersshane@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,jasonmorgan@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,hoodangela@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,jamesstanton@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,cynthia42@example.com
+1,1,1,0,0,0,0,0,1,0,0,0,email,abigail82@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,martinweber@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,leeangela@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,smithjoseph@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,cookwillie@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,vchavez@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,donna18@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,miguel63@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,xowens@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,josepholiver@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,ehughes@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,jorgemoore@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,phillipscarol@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,andrea38@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,nmack@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,sherimueller@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,sandra88@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,ashleyhoward@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,wsavage@example.com
+1,1,1,0,0,0,0,0,1,0,0,0,email,ann25@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,zoeknight@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,donald02@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,gentrygabriel@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,greenchristopher@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,perezadam@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,mwilson@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,susancollins@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,qfernandez@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,bowentaylor@example.com
+1,1,1,0,0,0,0,0,1,0,0,1,email,willie05@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,jmendoza@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,jeremy96@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,fmoon@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,ybrooks@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,nancy22@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,sullivananthony@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,nicholsjordan@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,travis92@example.com
+1,1,1,0,0,0,0,0,1,0,0,0,email,cynthia64@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,kimberlyhamilton@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,pmarshall@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,michaelwallace@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,andrew87@example.com
+1,1,0,0,0,0,0,0,1,0,0,0,email,conleycarly@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,ehall@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,bwright@example.com
+1,1,0,0,0,0,0,0,1,0,0,1,email,cruzkathryn@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,qharris@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,uclark@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,allenchristopher@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,benjaminblair@example.org
+1,1,0,0,0,0,0,0,1,0,0,0,email,hross@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,crystalbrowning@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,mitchell32@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,halelisa@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,richard99@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,jamesandrews@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,sharonadams@example.net
+1,1,1,0,0,0,0,0,1,0,0,0,email,alexandra50@example.net
+1,1,0,0,0,0,0,0,1,0,0,0,email,rodgersrichard@example.org
+1,1,1,0,0,0,0,0,1,0,0,0,email,roberto43@example.org
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,9093882013
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(964)452-9707x37676
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,945.327.9756x5396
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-575-340-6704x449
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-660-963-7245x25828
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(901)534-5218x4842
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,855-570-9683x38445
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-235-701-3324x32591
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,307.738.0198x841
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,+1-529-229-3831
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(501)320-6708
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,6316589234
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(715)699-4483x036
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,654-711-6056x367
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,4829211735
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-475-600-8392x499
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(992)539-4913x095
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-817-802-3520x79229
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,387.574.4343x196
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-331-877-1810x83596
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,901.994.8878
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-756-516-7288x319
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,308.980.5500x56875
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,3254483492
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,483.753.2555
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-389-442-6579x1364
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,375.400.4089
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,882-928-7822
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(924)834-3127x4685
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,288-560-0172x066
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(206)525-1556x63223
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(369)838-6951x34077
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-845-269-0520x0522
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,878-306-0414x3840
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,546.461.4612x4694
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(966)942-6743
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-721-879-9518x38387
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(777)440-0105
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,672.438.7013x7563
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,887-332-4907x682
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-481-437-8429x70229
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,886-738-0404x5389
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,446-973-0093
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,783-652-1772x22160
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-238-798-2621x87140
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,702.534.5627
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,+1-286-432-2372
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,529-209-9399x609
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-445-283-6045x465
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,333.608.1447
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,565.893.6996x4087
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,998.526.3622x858
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,790-762-8249x0846
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(554)882-6103
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,335-888-8245x274
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(476)621-2719x11327
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-873-688-0170x67679
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(907)673-8971x00079
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,7182460126
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,474-691-6659
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-566-500-2035x94592
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,215.513.1576x5313
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,325.204.9431x939
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,559.689.6429x203
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-832-787-4245x570
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-288-811-0803x659
+0,0,1,1,0,0,0,0,0,0,0,0,phone_number,7137439191
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(448)504-4523
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,852.985.8812x6937
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,+1-327-915-8706
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,543-535-9903x949
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(938)802-3322x135
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,+1-239-737-7026
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-511-626-1623x53550
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(424)629-2331
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,951.671.8600x701
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,842-565-0301
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,856-744-5473x3458
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(663)688-6890
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,735-969-8194
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,470-776-9833x06934
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,618.918.1390
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(424)976-8447x06029
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-431-335-4459x96270
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,758.675.9054x48581
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-303-297-7701x7580
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-737-882-5186x53715
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,397.241.7912
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,214.400.1937x96700
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,320.557.1526x05101
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,+1-671-948-2304x5130
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,792.403.2298
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,789.356.7166
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(405)253-2845
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,437.629.1857x186
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,001-747-604-0829x40148
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,292.969.3688x78070
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(373)583-0031
+0,1,1,0,0,0,0,0,0,0,0,0,phone_number,(893)490-5421x1699
+0,0,1,0,0,0,0,0,0,0,0,0,phone_number,(544)568-5400
+0,1,1,0,1,0,0,0,0,1,1,1,address,"06173 Kelley Oval Suite 740 Griffinport, WY 95218"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"992 Alexandria Extensions South Madeline, FM 76565"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"645 Daniel Corners Apt. 572 South Christopher, ME 02991"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"599 Fox Springs Suite 080 Franklinville, DE 15263"
+0,1,1,0,1,0,1,0,0,0,0,0,address,Unit 6798 Box 6126 DPO AA 87553
+0,1,1,0,1,0,1,0,0,0,0,0,address,USNV Ferrell FPO AA 80884
+0,1,1,0,1,0,0,0,0,0,0,0,address,"972 Stephanie Lock Suite 502 Stephaniestad, MO 47556"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"68223 Espinoza Lane North Emilyburgh, VA 28766"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"84477 Karen Locks Jayport, AR 27373"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"389 Joseph Square Suite 902 South David, ID 60786"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"853 Monique Heights Lake Thomas, MN 41522"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"17141 Theresa Valley Suite 727 East Jacobshire, WY 18693"
+0,1,1,0,1,0,1,0,0,0,0,1,address,"PSC 9343, Box 0329 APO AE 39343"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"204 Scott Ferry Drakeside, AR 58528"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"781 Blair Knolls Suite 370 North Jessicaville, DC 67252"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"026 Bradley Glen Suite 499 Port Robert, MS 94280"
+0,1,1,0,1,0,1,0,0,0,0,0,address,"PSC 1685, Box 2668 APO AE 13574"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"744 Laura Union Suite 696 Vanessamouth, MT 47068"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"941 Robinson Fork Port Julie, NV 19175"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"3770 Gonzalez Falls Howellchester, DC 81419"
+0,1,1,0,1,0,1,0,0,0,0,0,address,Unit 5776 Box 6276 DPO AA 27981
+0,1,1,0,1,0,0,0,0,1,1,0,address,"1215 Benjamin Grove Suite 630 Kimberlyside, MO 57233"
+0,1,1,0,1,0,1,0,0,0,0,1,address,Unit 5885 Box 4639 DPO AP 21550
+0,1,1,0,1,0,0,0,0,0,0,0,address,"6122 Whitney Ridges South Erin, UT 78750"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"6775 Mitchell Parkways North Courtney, SD 43702"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"264 Jackson Prairie Apt. 246 Jonesfurt, AZ 01123"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"378 Nicholas Drive Suite 465 Jerryton, TN 46759"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"3373 Brown Valleys Lake Larryburgh, AK 21007"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"9759 Mary Divide Apt. 357 West Marcusborough, NY 33542"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"427 James Row Suite 612 Lake Kevin, MD 06820"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"09306 Kayla Ramp Davisville, RI 87037"
+0,1,1,0,1,0,0,0,0,0,1,1,address,"582 Melody Forest Apt. 586 East Anna, MO 36280"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"95564 Allen Mall Suite 642 West Leslie, OH 59513"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"14835 Brian Row Suite 479 Murphyburgh, AS 52088"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"272 Margaret Road East Sean, MD 28189"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"619 Ford Curve Suite 968 Durhamtown, NJ 42336"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"094 Larry Cliff Alyssachester, RI 86279"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"8098 Villarreal Field South Louis, ND 62540"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"1228 Crawford Rue East James, OH 37951"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"826 Pennington Branch Apt. 838 Port Catherine, ME 66927"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"2186 Joan Turnpike Byrdhaven, MT 56540"
+0,1,1,0,1,0,1,0,0,0,0,1,address,"PSC 4055, Box 0128 APO AP 61840"
+0,1,1,0,1,0,0,0,0,0,1,1,address,"9038 Krystal Unions Suite 095 Lake Ryan, IL 56271"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"934 Vicki Mews North Pamelamouth, MH 12951"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"2329 Jonathan Field Apt. 055 North Sarah, OH 80872"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"9203 Matthews Parkway Suite 320 Amyborough, DE 67783"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"33023 Rogers Expressway Suite 548 Kristenville, AR 60018"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"931 Turner Courts Suite 142 New Kevin, FM 87575"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"7169 Maria Hill New Lori, MP 27625"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"541 Jenna Course Lake Alicia, MD 43204"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"9104 Jimenez Isle Suite 636 West John, CT 19929"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"868 Robert Burg Suite 069 Lake Kimberlyport, MS 53848"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"225 Kelly Ways South Ricardo, ND 40055"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"0404 Michelle Overpass Apt. 477 Johnshire, MO 95693"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"6254 Jackson Wells Andrewshire, NM 09143"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"419 Henry Radial Apt. 492 Perkinsbury, NE 86132"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"8029 David Street North William, WY 63125"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"020 Scott Curve Suite 874 Traviston, PA 33049"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"10505 White Trafficway Carlastad, DC 12952"
+0,1,1,0,1,0,1,0,0,0,0,0,address,USS Rivas FPO AA 26687
+0,1,1,0,1,0,0,0,0,1,0,0,address,"39595 Ricardo Trafficway Velazquezfort, PA 47525"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"92019 Foster Summit Suite 140 Brianaland, NE 03197"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"8313 Joshua Harbors Apt. 800 New Lucasmouth, FM 81766"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"813 Emily Streets Robertchester, AS 84239"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"5186 Hardy Mount East Joshualand, WY 99531"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"567 Stanley Fork Apt. 482 Rossfurt, AR 75168"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"13473 Ashley View Cainville, CO 49067"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"35820 Smith Square Suite 307 New Amanda, PA 75907"
+0,1,1,0,1,0,1,0,0,0,0,0,address,Unit 3420 Box 0715 DPO AP 69558
+0,1,1,0,1,0,1,0,0,0,0,0,address,USCGC Acosta FPO AA 61938
+0,1,1,0,1,0,0,0,0,0,1,0,address,"333 Smith Freeway Apt. 790 Port Joseph, PA 10547"
+0,1,1,0,1,0,1,0,0,0,0,0,address,USS Perry FPO AP 77406
+0,1,1,0,1,0,0,0,0,0,0,0,address,"575 Short Turnpike Patriciahaven, NH 28909"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"353 Corey Hill Suite 623 Clintonland, NM 79034"
+0,1,1,0,1,0,0,0,0,0,1,1,address,"428 Logan Crescent Apt. 582 South Isaacbury, IA 99677"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"421 Lori Extension Suite 593 West Bryanchester, CO 71061"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"6713 Simon Islands Suite 982 New Jamesfurt, MP 27423"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"57074 Ramirez Lakes Apt. 014 Frankburgh, KY 72890"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"885 Alexander Mountain South Melinda, AR 80359"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"543 Fisher Mews Michaelhaven, IA 95564"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"784 Amber Shores Apt. 759 Jamesshire, PR 32145"
+0,1,1,0,1,0,0,0,0,0,0,0,address,"5117 Jeremy Parkway Port Eric, HI 76428"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"35922 Jason Underpass Kimberlyburgh, AL 61949"
+0,1,1,0,1,0,0,0,0,0,1,1,address,"909 Mckenzie Meadows Apt. 133 West Rebecca, PA 84424"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"589 Stevens Gateway Suite 444 New Daniel, IL 54374"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"857 Carla Walk New Dennis, KS 11047"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"71981 Samantha Ramp Mackville, MT 13078"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"009 Jamie Divide Apt. 474 West Nicholas, NV 97787"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"054 Terri Walks West Fernando, TN 14612"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"06043 Andrade Skyway Suite 524 Ramseymouth, AK 74248"
+0,1,1,0,1,0,0,0,0,1,1,0,address,"212 William Port Suite 064 East Tiffany, AL 70500"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"89773 Benjamin Village Suite 663 North Emilyberg, AK 41913"
+0,1,1,0,1,0,0,0,0,1,0,1,address,"81423 Joel Forks Suite 434 Robinsonside, NJ 84888"
+0,1,1,0,1,0,0,0,0,1,0,0,address,"303 Charles Lake Apt. 850 North Heather, DE 18638"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"565 Jack Valleys Port Ariel, MO 22306"
+0,1,1,0,1,0,1,0,0,0,0,1,address,"PSC 8247, Box 9552 APO AP 57910"
+0,1,1,0,1,0,0,0,0,0,1,0,address,"439 Kristen Orchard Suite 304 North Wendybury, WV 10910"
+0,1,1,0,1,0,1,0,0,0,0,1,address,USCGC Newman FPO AE 25759
+0,1,1,0,1,0,0,0,0,1,0,0,address,"467 Duran Run Rodriguezborough, CA 82540"
+0,1,1,0,1,0,0,0,0,0,0,1,address,"97255 Kelly Burg Apt. 657 Griffinchester, PW 83028"
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,30369245306520
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4091803381614497137
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6529484376246554
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4427651159791
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6011657047329827
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,349358921227205
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4054133548355805
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6011513664632045
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3510867931852742
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3584728945687287
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4484449893101507
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,36750315082709
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2278932253562370
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,340226416543130
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,30115465195188
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4258341321687609
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,348863622120451
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4758936120282547
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,370005854334472
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4888013653000796
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4601786897057666
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6011968171744602
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,371028245913035
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4313962093741622
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4840307456942
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2289155775669856
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4243586978787
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,345323538320011
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,378935514169367
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,36688275942399
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3547750979750068
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4328670818344
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2719668508574821
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2266100249609077
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4089283169339309569
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4667625090596420
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4465390341388044
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4498512712763817
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,675928233997
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,213192462206143
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,180048217181339
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,580765279055
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,180023432826869
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,577867631597
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3546595109376180
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4908839775731850
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6579409812624261
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3534250931357842
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4345066981254
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4283195044653226
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4686845658529916708
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3520047052435183
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,346559452860255
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6536515957966846
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3564067361451116
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3553250173336385
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,5155165850258453
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,5489014214295719
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6510355355505478
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4499035120743485
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6558171083668147
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3584751591795980
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3548196179414379
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4683950059581768236
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,180094589287932
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,30556859286242
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4920352312393120777
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3517302836963371
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,38944867624004
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,676108456705
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,675910311454
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4475725983598058593
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4680169716671807
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6011991047814987
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4380002410852451
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,213184401724229
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,38371117213810
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3577956511809717
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4338913190295877307
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2234061455711214
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,343585933731040
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,2608831096222302
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3516646810393430
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4146729370116718267
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,346082590981156
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4724411794530465
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,30418228785620
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,6564385284417896
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3597584270730167
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,30215386949703
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,676144733711
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4432333535327
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3599559160356172
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,060449189194
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4822839547248699
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4413674684877643475
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4422044145717922
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,675940274359
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,3595828398179936
+0,0,1,1,0,0,0,0,0,0,0,0,credit_card_number,4079152843777
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://baker-gray.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.perry.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://miller.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://andersen-carpenter.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://allen.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.cox.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://cox-perry.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://jones-frank.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://jordan.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://miller.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.rice.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://nelson.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.gay-rodriguez.com/
+0,1,0,0,0,0,0,1,0,1,0,0,url,https://suarez-valdez.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.hall.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://wall-norman.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.stevens.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.harris.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.johnson.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.fox-ramos.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.wong.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://frazier.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://white.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.henderson.com/
+0,1,0,0,0,0,0,1,0,0,1,0,url,http://freeman-bentley.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://pham.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.edwards.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.taylor-decker.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.cochran.info/
+0,1,0,0,0,0,0,1,0,0,1,0,url,https://fuller.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://bailey.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.williams-may.com/
+0,1,0,0,0,0,0,1,0,1,0,0,url,https://www.morris.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.mccoy.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://evans-jones.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://velazquez-russo.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.stafford-smith.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.mitchell.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.klein-arnold.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.hunter-butler.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.jones-gentry.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.chavez.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.sanchez.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://stewart.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://friedman.com/
+0,1,0,0,0,0,0,1,0,0,1,0,url,http://taylor.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://hardy.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.edwards.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://garcia.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://rodriguez.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://shepherd.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.kelly-myers.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://johnson.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://edwards-smith.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://henry-richards.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://harris.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://lewis.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.watts-chavez.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.quinn.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.cobb.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://schmidt.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.nielsen.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.collins.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://johnson-blankenship.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.cruz.org/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.harper.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://jones-martin.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://leon.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://martinez.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.hampton.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.nguyen.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://smith.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://peterson.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://thompson.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.baker.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.hogan.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://watts.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.williams-austin.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.joyce.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.barnes.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://tran.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://johnson-underwood.net/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://bates.com/
+0,1,0,0,0,0,0,1,0,0,0,1,url,https://www.osborne-martin.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://may-duke.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.barnes-davenport.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://rose-west.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://black-friedman.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://holland.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.gonzales.info/
+0,1,0,0,0,0,0,1,0,0,1,0,url,http://clark-nelson.biz/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.bowman.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://williamson.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://english.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://west.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.robinson-randall.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://stanley.info/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.harris.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,https://www.sanchez-hughes.com/
+0,1,0,0,0,0,0,1,0,0,0,0,url,http://www.perry.com/
+0,1,0,0,0,0,1,0,0,1,0,0,company,Taylor-Huff
+0,1,0,0,0,0,1,0,0,0,0,1,company,Hall-Green
+0,1,0,0,1,0,1,0,0,0,0,1,company,Sawyer Ltd
+0,1,0,0,1,0,1,0,0,0,0,1,company,Smith and Sons
+0,1,0,0,0,0,1,0,0,1,0,0,company,Perez-Spencer
+0,1,0,0,0,0,1,0,0,0,0,0,company,Harrington-Fields
+0,1,0,0,0,0,1,0,0,0,0,0,company,Moore-Martinez
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Merritt, Pennington and Jones"
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Daniel, Gordon and Morrow"
+0,1,0,0,1,0,1,0,0,0,1,1,company,"Smith, Pacheco and Schneider"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Ward-Rose
+0,1,0,0,1,0,1,0,0,0,0,1,company,Wilson PLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Olson-Garrison
+0,1,0,0,1,0,1,0,0,0,0,0,company,Browning LLC
+0,1,0,0,1,0,1,0,0,0,0,1,company,Burch Group
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Wall, Mejia and Scott"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Cook-Jones
+0,1,0,0,0,0,1,0,0,1,0,0,company,Lane-Roberts
+0,1,0,0,1,0,1,0,0,0,0,1,company,Calderon Inc
+0,1,0,0,0,0,1,0,0,0,0,1,company,Mayer-Mcmahon
+0,1,0,0,1,0,1,0,0,0,0,1,company,"Brown, Bishop and Nunez"
+0,1,0,0,0,0,1,0,0,0,0,0,company,King-Hogan
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Chavez, Hoffman and Jones"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Walker-Green
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Morales, Garrett and Raymond"
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Nelson, Burgess and Chang"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Jackson-Franklin
+0,1,0,0,1,0,1,0,0,0,0,1,company,Hawkins LLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Nelson-Smith
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Webster, Frank and Gomez"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Johnson Inc
+0,1,0,0,1,0,1,0,0,0,0,1,company,Coleman Group
+0,1,0,0,1,0,1,0,0,1,1,0,company,"Moss, Montoya and Shaw"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Silva-Cooper
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Moreno, Murphy and Ryan"
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Floyd, Stewart and Romero"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Reyes PLC
+0,1,0,0,1,0,1,0,0,0,0,1,company,Jacobs Ltd
+0,1,0,0,0,0,1,0,0,0,0,1,company,Henderson-Gray
+0,1,0,0,0,0,1,0,0,0,0,1,company,King-Wallace
+0,1,0,0,0,0,1,0,0,0,0,1,company,Simpson-Jenkins
+0,1,0,0,1,0,1,0,0,0,0,1,company,Burch Ltd
+0,1,0,0,0,0,1,0,0,0,0,1,company,Murray-Vaughan
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Matthews, Roberts and Mack"
+0,1,0,0,0,0,1,0,0,0,0,1,company,King-Cohen
+0,1,0,0,1,0,1,0,0,0,0,1,company,Rodriguez Ltd
+0,1,0,0,0,0,1,0,0,0,0,1,company,Holt-Lewis
+0,1,0,0,1,0,1,0,0,1,1,0,company,"Cooley, Frank and Ramos"
+0,1,0,0,1,0,1,0,0,0,0,1,company,White PLC
+0,1,0,0,1,0,1,0,0,1,1,1,company,"Ramos, Cannon and Davidson"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Parsons-Hughes
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Lopez, Gutierrez and Terry"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Osborne PLC
+0,1,0,0,0,0,1,0,0,1,0,0,company,Macias-Tran
+0,1,0,0,1,0,1,0,0,0,0,0,company,"Webb, Harper and Brown"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Fowler Inc
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Ferguson, Hernandez and Jackson"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Gray Inc
+0,1,0,0,0,0,1,0,0,1,0,0,company,Austin-Aguirre
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Mcdonald, Martin and Holloway"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Burke-Watson
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Roth, Snyder and Tyler"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Ballard-Arias
+0,1,0,0,1,0,1,0,0,0,0,1,company,Ruiz PLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Clarke-Rosales
+0,1,0,0,1,0,1,0,0,0,1,0,company,"Henderson, White and Underwood"
+0,1,0,0,1,0,1,0,0,0,0,0,company,Moore LLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Gonzales-Bell
+0,1,0,0,0,0,1,0,0,0,0,1,company,Robinson-Lewis
+0,1,0,0,0,0,1,0,0,0,0,1,company,Bell-Cohen
+0,1,0,0,1,0,1,0,0,0,0,1,company,Adams Inc
+0,1,0,0,1,0,1,0,0,1,1,0,company,"Vargas, Robinson and Lewis"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Stevenson PLC
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Tyler, Wood and Russell"
+0,1,0,0,1,0,1,0,0,0,1,1,company,"Decker, Willis and Wilson"
+0,1,0,0,1,0,1,0,0,1,1,1,company,"Thompson, Evans and Farmer"
+0,1,0,0,1,0,1,0,0,0,1,1,company,"Mason, Price and Sanchez"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Beasley PLC
+0,1,0,0,1,0,1,0,0,0,0,0,company,Hammond and Sons
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Gonzalez, Robinson and Robinson"
+0,1,0,0,0,0,1,0,0,1,0,0,company,Lopez-Goodman
+0,1,0,0,1,0,1,0,0,0,0,1,company,Jones LLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Jacobs-Johnson
+0,1,0,0,1,0,1,0,0,1,1,0,company,"Benton, Dalton and Velazquez"
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Collins, Kramer and Rogers"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Nguyen Group
+0,1,0,0,1,0,1,0,0,0,0,1,company,Garcia PLC
+0,1,0,0,1,0,1,0,0,0,1,0,company,"Vargas, Smith and Farmer"
+0,1,0,0,1,0,1,0,0,0,0,1,company,Weiss Ltd
+0,1,0,0,0,0,1,0,0,1,0,0,company,Green-Davis
+0,1,0,0,1,0,1,0,0,0,0,1,company,Foster Group
+0,1,0,0,1,0,1,0,0,1,0,1,company,"Martinez, Odonnell and Bishop"
+0,1,0,0,1,0,1,0,0,0,1,1,company,"Campbell, Morrison and Holden"
+0,1,0,0,1,0,1,0,0,0,1,1,company,"Hernandez, Washington and Hall"
+0,1,0,0,0,0,1,0,0,0,0,1,company,Payne-Estrada
+0,1,0,0,1,0,1,0,0,0,0,1,company,Garrett PLC
+0,1,0,0,0,0,1,0,0,0,0,1,company,Ellis-Moore
+0,1,0,0,1,0,1,0,0,0,0,0,company,Estes and Sons
+0,1,0,0,0,0,1,0,0,0,0,1,company,Tapia-Wright
+0,1,0,0,1,0,1,0,0,1,0,0,company,"Jones, Jarvis and Williams"
