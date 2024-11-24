@@ -1,3 +1,7 @@
+from synthetic_energy.time_series.diffusion.diffusion import (
+    Diffusion,
+    GaussianDiffusion,
+)
 from synthetic_energy.time_series.doppelganger.config import (
     DfStyle,
     DGANConfig,
@@ -54,4 +58,7 @@ __all__ = [
     "find_max_consecutive_nans",
     "nan_linear_interpolation",
     "validation_check",
+    "ContinuousOutput",
+    "Diffusion",
+    "GaussianDiffusion",
 ]
