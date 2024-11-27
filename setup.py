@@ -10,7 +10,7 @@ def read_requirements():
 
 setup(
     name="synthetic_energy",
-    version="0.0.8",
+    version="0.0.9",
     packages=find_packages(),
     install_requires=read_requirements(),
     entry_points={
