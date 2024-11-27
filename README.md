@@ -12,7 +12,7 @@ Package for generating privacy-presarving data in the power systems domain.
 
 
 ```bash
-conda create -n synthetic_energy python=3.11
+conda create -n synthetic_energy python=3.8.20
 pip install synthetic_energy/
 ```
 
