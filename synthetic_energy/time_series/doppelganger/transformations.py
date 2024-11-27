@@ -363,7 +363,7 @@ class ContinuousOutput(Output):
 
 def create_outputs_from_data(
     attributes: Optional[np.ndarray],
-    features: list[np.ndarray],
+    features: List[np.ndarray],
     attribute_types: Optional[List[OutputType]],
     feature_types: Optional[List[OutputType]],
     normalization: Normalization,
@@ -607,7 +607,7 @@ def _grouped_min_and_max(
 
 
 def transform_features(
-    original_data: list[np.ndarray],
+    original_data: List[np.ndarray],
     outputs: List[Output],
     max_sequence_len: int,
 ) -> Tuple[np.ndarray, Optional[np.ndarray]]:
@@ -708,7 +708,7 @@ def transform_features(
 
 def inverse_transform_attributes(
     transformed_data: np.ndarray,
-    outputs: list[Output],
+    outputs: List[Output],
 ) -> Optional[np.ndarray]:
     """Inverse of transform_attributes to map back to original space.
 
