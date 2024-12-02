@@ -10,9 +10,13 @@ def read_requirements():
 
 setup(
     name="synthetic_energy",
-    version="0.0.9",
+    version="0.0.10",
     packages=find_packages(),
     install_requires=read_requirements(),
+    include_package_data=True,
+    package_data={
+        'synthetic_energy': ['*.pkl'],  # Include all .pkl files in the data directory
+    },
     entry_points={
         "console_scripts": [
             # 'your_command=your_module.your_module:main',
@@ -28,5 +32,5 @@ setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.8",
+    python_requires=">=3.10",
 )
