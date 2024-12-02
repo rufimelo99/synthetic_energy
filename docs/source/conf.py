@@ -16,9 +16,9 @@ except subprocess.CalledProcessError as e:
     print(f"Failed to download spaCy model: {e}")
 
 # -- Project information -----------------------------------------------------
-author = "Rui Melo"
-project = "ml_security"
-copyright = "2024, Rui Melo"
+author = "Rui Melo & Andre Catarino"
+project = "synthetic_energy"
+copyright = "2024, Rui Melo & Andre Catarino"
 comments_config = {"hypothesis": False, "utterances": False}
 exclude_patterns = ["**.ipynb_checkpoints", ".DS_Store", "Thumbs.db", "_build"]
 extensions = [
