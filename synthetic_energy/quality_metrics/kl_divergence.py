@@ -258,7 +258,7 @@ class KLDivergence(DistanceMetric):
         --------
         scipy.stats.entropy : Computes the KL divergence for individual distributions.
         """
-        return np.sum(entropy(p_i, q_i) for p_i, q_i in zip(p, q))
+        return float(np.sum(entropy(p_i, q_i) for p_i, q_i in zip(p, q)))
 
 
 class PopulationStabilityIndex(KLDivergence):
