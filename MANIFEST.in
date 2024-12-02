@@ -1,0 +1,1 @@
+include my_package/data/*.pkl
