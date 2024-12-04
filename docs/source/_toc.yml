@@ -13,3 +13,6 @@ parts:
   - file: anonymization
   - file: time_series
   - file: tabular
+- caption: Attack
+  chapters:
+  - file: attacks
