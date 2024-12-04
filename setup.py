@@ -10,12 +10,14 @@ def read_requirements():
 
 setup(
     name="synthetic_energy",
-    version="0.0.12",
+    version="0.0.13",
     packages=find_packages(),
     install_requires=read_requirements(),
     include_package_data=True,
     package_data={
-        'synthetic_energy': ['anonymization/classifiers/*.pkl'],  # Include all .pkl files in the data directory
+        "synthetic_energy": [
+            "anonymization/classifiers/*.pkl"
+        ],  # Include all .pkl files in the data directory
     },
     entry_points={
         "console_scripts": [
