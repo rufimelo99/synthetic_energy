@@ -71,7 +71,7 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": False,
 }
-html_title = "ml_security"
+html_title = "synthetic_energy"
 myst_enable_extensions = [
     "colon_fence",
     "dollarmath",
