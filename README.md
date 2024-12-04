@@ -18,4 +18,4 @@ pip install synthetic_energy/
 
 This package contains known algorithms for privacy-presarving data generation in the power systems domain. The package is designed to be easy to use and to be easily extensible. The package is intended to be used only in the academic context.
 
-Greatly inspired by https://github.com/gretelai/gretel-synthetics.
+Doppelganger and Actgan implementations inspired by https://github.com/gretelai/gretel-synthetics.
