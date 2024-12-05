@@ -15,6 +15,7 @@ parts:
   chapters:
   - file: doppelganger
   - file: diffusion
+  - file: vae
 - caption: Tabular Data
   chapters:
   - file: actgan
