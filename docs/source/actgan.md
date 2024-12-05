@@ -1,7 +1,7 @@
-# Attacks
+# Doppelganger
 
 ```{eval-rst}
-.. automodule:: synthetic_energy.attacks
+.. automodule:: synthetic_energy.tabular.actgan
    :members:
    :undoc-members:
    :show-inheritance:
