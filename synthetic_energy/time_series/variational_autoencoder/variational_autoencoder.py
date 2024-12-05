@@ -3,36 +3,6 @@ Variational Autoencoder (VAE) implementation for time series data. A VAE is a ge
 that learns to encode data into a latent representation and decode from the latent space
 to reconstruct the input data. This implementation includes methods for sampling, generating, 
 encoding, and decoding.
-
-Parameters
-----------
-input_dim : int
-    Dimensionality of the input data.
-hidden_dim : int
-    Dimensionality of the hidden layers in the encoder and decoder.
-latent_dim : int
-    Dimensionality of the latent space.
-
-Methods
--------
-forward(x)
-    Performs a forward pass through the VAE, encoding the input and reconstructing it.
-reparameterize(mu, log_var)
-    Samples latent variables from the learned distribution using the reparameterization trick.
-loss(x, x_hat, mu, log_var)
-    Computes the VAE loss, including reconstruction loss and KL divergence.
-sample(n_samples)
-    Samples data from the latent space.
-generate(x)
-    Generates data by encoding input and decoding from the latent space.
-encode(x)
-    Encodes input data into latent variables (mean and log variance).
-decode(z)
-    Decodes latent variables into reconstructed data.
-save(path)
-    Saves the model parameters to the specified file path.
-load(path)
-    Loads the model parameters from the specified file path.
 """
 
 import torch
