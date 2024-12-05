@@ -15,6 +15,27 @@ from sklearn.preprocessing import (
 
 
 class ScalerType(str, Enum):
+    """
+    Enumeration of available scaler types for data normalization.
+
+    Attributes
+    ----------
+    STANDARD : str
+        StandardScaler, which scales data to have zero mean and unit variance.
+    MINMAX : str
+        MinMaxScaler, which scales data to a range [0, 1].
+    MAXABS : str
+        MaxAbsScaler, which scales data to [-1, 1] based on the maximum absolute value.
+    ROBUST : str
+        RobustScaler, which scales data using median and interquartile range, robust to outliers.
+    QUANTILE : str
+        QuantileTransformer, which transforms data to follow a uniform or normal distribution.
+    POWER : str
+        PowerTransformer, which applies a power transformation to stabilize variance.
+    NORMALIZER : str
+        Normalizer, which scales data samples to have unit norm.
+    """
+
     STANDARD = "standard"
     MINMAX = "minmax"
     MAXABS = "maxabs"
@@ -25,16 +46,34 @@ class ScalerType(str, Enum):
 
 
 class DifferentialPrivacy:
+    """
+    A class to apply differential privacy to datasets by scaling the data and adding Laplace noise.
+
+    Differential privacy is achieved by injecting noise into the data, ensuring that individual
+    entries cannot be identified with high confidence. This class supports various data scaling
+    methods for preprocessing.
+
+    Parameters
+    ----------
+    epsilon : float, optional
+        Privacy budget for differential privacy (default is 1.0). Smaller values result
+        in more noise and greater privacy, while larger values reduce noise and increase
+        data utility.
+    scaler : ScalerType, optional
+        The type of scaler to use for data normalization (default is ScalerType.STANDARD).
+        Supported scalers are:
+        - 'standard': StandardScaler
+        - 'minmax': MinMaxScaler
+        - 'maxabs': MaxAbsScaler
+        - 'robust': RobustScaler
+        - 'quantile': QuantileTransformer
+        - 'power': PowerTransformer
+        - 'normalizer': Normalizer
+    """
+
     def __init__(
         self, epsilon: float = 1.0, scaler: ScalerType = ScalerType.STANDARD
     ) -> None:
-        """
-        Initialize the DifferentialPrivacy class.
-
-        Parameters:
-        - epsilon: float, privacy parameter (smaller values = more noise)
-        - scaler: ScalerType, type of scaler to use ('standard', 'minmax', etc.)
-        """
         self.epsilon: float = epsilon
         self.scaler_type: ScalerType = scaler
         self.scaler: Optional[
@@ -51,10 +90,21 @@ class DifferentialPrivacy:
 
     def fit(self, X: npt.ArrayLike) -> None:
         """
-        Fit the scaler to the data.
+        Fit the specified scaler to the input data.
 
-        Parameters:
-        - X: array-like, data to scale
+        This method determines the parameters of the chosen scaler based on the input data.
+        These parameters are then used for scaling in subsequent transformations.
+
+        Parameters
+        ----------
+        X : array-like
+            Input data used to compute the scaling parameters. Should be in the form of
+            a NumPy array or similar format (e.g., Pandas DataFrame).
+
+        Raises
+        ------
+        ValueError
+            If an invalid scaler type is specified.
         """
         if self.scaler_type == ScalerType.STANDARD:
             self.scaler = StandardScaler()
@@ -77,13 +127,26 @@ class DifferentialPrivacy:
 
     def transform(self, X: npt.ArrayLike) -> np.ndarray:
         """
-        Scale the data and add Laplace noise for differential privacy.
+        Transform the input data using the fitted scaler and add Laplace noise.
 
-        Parameters:
-        - X: array-like, data to transform
+        This method scales the data using the fitted scaler and injects Laplace noise
+        to achieve differential privacy.
 
-        Returns:
-        - np.ndarray: Transformed data with noise added.
+        Parameters
+        ----------
+        X : array-like
+            Input data to be scaled and noise added. Should be in the form of a NumPy array
+            or similar format.
+
+        Returns
+        -------
+        np.ndarray
+            Transformed data with Laplace noise added for differential privacy.
+
+        Raises
+        ------
+        ValueError
+            If the scaler has not been initialized. Call `fit` before using this method.
         """
         if self.scaler is None:
             raise ValueError("Scaler not initialized. Call `fit` first.")
@@ -94,26 +157,45 @@ class DifferentialPrivacy:
 
     def fit_transform(self, X: npt.ArrayLike) -> np.ndarray:
         """
-        Fit the scaler and transform the data in one step.
+        Fit the scaler and transform the input data in a single step.
 
-        Parameters:
-        - X: array-like, data to fit and transform
+        This method combines `fit` and `transform` for convenience.
 
-        Returns:
-        - np.ndarray: Transformed data with noise added.
+        Parameters
+        ----------
+        X : array-like
+            Input data to be scaled and noise added.
+
+        Returns
+        -------
+        np.ndarray
+            Transformed data with Laplace noise added for differential privacy.
         """
         self.fit(X)
         return self.transform(X)
 
     def inverse_transform(self, X: npt.ArrayLike) -> np.ndarray:
         """
-        Reverse the scaling transformation (noise is not reversible).
+        Reverse the scaling transformation applied to the data.
 
-        Parameters:
-        - X: array-like, data to inverse transform
+        This method reverts the scaling applied by the `transform` method. However, the
+        noise added for differential privacy cannot be removed, so the original data
+        cannot be fully recovered.
 
-        Returns:
-        - np.ndarray: Data scaled back to the original scale.
+        Parameters
+        ----------
+        X : array-like
+            Scaled data to revert to the original scale.
+
+        Returns
+        -------
+        np.ndarray
+            Data rescaled to the original scale.
+
+        Raises
+        ------
+        ValueError
+            If the scaler has not been initialized. Call `fit` before using this method.
         """
         if self.scaler is None:
             raise ValueError("Scaler not initialized. Call `fit` first.")
