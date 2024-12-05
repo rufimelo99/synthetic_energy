@@ -25,3 +25,6 @@ parts:
   - file: fast_gradient_sign_attack
   - file: membership_inference_attack
   - file: projected_gradient_descent_attack
+- caption: Defense Mechanisms
+  chapters:
+  - file: differential_privacy
