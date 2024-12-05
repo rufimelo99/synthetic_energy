@@ -2,11 +2,12 @@ from typing import List, Optional
 
 import torch
 import torch.nn.functional as F
-from submodules.synthetic_energy.synthetic_energy.attacks.fast_gradient_sign_attack.fast_gradient_sign_attack import (
+from tqdm import tqdm
+
+from synthetic_energy.attacks.fast_gradient_sign_attack.fast_gradient_sign_attack import (
     DenormalizingTransformation,
     FastGradientSignAttack,
 )
-from tqdm import tqdm
 
 
 class ProjectedGradientDescent(FastGradientSignAttack):

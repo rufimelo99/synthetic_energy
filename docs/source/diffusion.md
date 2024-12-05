@@ -1,4 +1,4 @@
-# Doppelganger
+# Diffusion
 
 ```{eval-rst}
 .. automodule:: synthetic_energy.time_series.diffusion
