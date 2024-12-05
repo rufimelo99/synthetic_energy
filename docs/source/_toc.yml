@@ -8,11 +8,19 @@ parts:
   chapters:
   - file: quality_metrics
   - file: base
-- caption: Anonymization
+- caption: Simple Anonymization
   chapters:
   - file: anonymization
-  - file: time_series
-  - file: tabular
+- caption: Time Series
+  chapters:
+  - file: doppelganger
+  - file: diffusion
+- caption: Tabular Data
+  chapters:
+  - file: actgan
 - caption: Attack
   chapters:
-  - file: attacks
+  - file: carlini_wagner_attack
+  - file: fast_gradient_sign_attack
+  - file: membership_inference_attack
+  - file: projected_gradient_descent_attack
