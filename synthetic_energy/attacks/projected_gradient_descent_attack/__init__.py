@@ -1,4 +1,4 @@
-from submodules.synthetic_energy.synthetic_energy.attacks.projected_gradient_descent_attack.projected_gradient_descent_attack import (
+from synthetic_energy.attacks.projected_gradient_descent_attack.projected_gradient_descent_attack import (
     ProjectedGradientDescent,
 )
 

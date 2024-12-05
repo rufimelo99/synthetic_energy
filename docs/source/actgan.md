@@ -1,4 +1,4 @@
-# Doppelganger
+# ActGAN
 
 ```{eval-rst}
 .. automodule:: synthetic_energy.tabular.actgan
