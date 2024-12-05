@@ -2,7 +2,7 @@
 
 # synthetic_energy
 
-Package for generating privacy-presarving data in the power systems domain.
+Package for generating privacy-preserving data in the power systems domain.
 
 [![PyPi Version](https://img.shields.io/pypi/v/synthetic_energy)](https://pypi.org/project/synthetic_energy/)
 [![GitHub](https://img.shields.io/github/stars/rufimelo99/synthetic_energy?style=social)](https://github.com/rufimelo99/synthetic_energy)
@@ -18,7 +18,7 @@ pip install synthetic_energy
 
 ## Introduction
 
-This package contains known algorithms for privacy-presarving data generation in the power systems domain. The package is designed to be easy to use and to be easily extensible. The package is intended to be used only in the academic context.
+This package contains known algorithms for privacy-preserving data generation in the power systems domain. The package is designed to be easy to use and to be easily extensible. The package is intended to be used only in the academic context.
 
 
 Doppelganger and Actgan implementations inspired by https://github.com/gretelai/gretel-synthetics.

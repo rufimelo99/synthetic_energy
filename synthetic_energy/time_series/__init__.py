@@ -33,7 +33,9 @@ from synthetic_energy.time_series.doppelganger.transformations import (
     OneHotEncodedOutput,
     Output,
 )
-from synthetic_energy.time_series.variational_autoenconder import VAE
+from synthetic_energy.time_series.variational_autoencoder.variational_autoencoder import (
+    VAE,
+)
 
 __all__ = [
     "VAE",
