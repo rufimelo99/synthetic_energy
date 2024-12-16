@@ -242,6 +242,12 @@ class CarliniWagnerAttack(AdversarialAttack):
             # Generates the adversarial image and clamps it to be within [0, 1].
             adv_images = torch.clamp(ori_images + delta, 0, 1)
 
+            # Convert to float32
+            adv_images = adv_images.float()
+            
+            print(adv_images.dtype)
+            print(model)
+
             # Predicts the class of the adversarial image.
             outputs = model(adv_images)
 
