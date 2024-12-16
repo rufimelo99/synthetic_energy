@@ -242,8 +242,12 @@ class CarliniWagnerAttack(AdversarialAttack):
             # Generates the adversarial image and clamps it to be within [0, 1].
             adv_images = torch.clamp(ori_images + delta, 0, 1)
 
+            # Convert to float32
+            adv_images = adv_images.float()
+
             # Predicts the class of the adversarial image.
             outputs = model(adv_images)
+            outputs = torch.tensor(outputs, dtype=torch.float64)
 
             # Computes the loss.
             if target_labels:
@@ -254,6 +258,7 @@ class CarliniWagnerAttack(AdversarialAttack):
             else:
                 # If target_labels is not provided, the attack is untargeted.
                 # It minimizes the logit for the true label.
+                labels = labels.long()
                 true_loss = F.cross_entropy(outputs, labels)
                 f_loss = -true_loss
 
